@@ -1,0 +1,15 @@
+﻿  Gameboard.cpp
+  GridTetromino.cpp
+  Point.cpp
+  Source.cpp
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\Source.cpp(68,12): warning C4101: 'guiEvent': unreferenced local variable
+  TestSuite.cpp
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\TestSuite.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  TetrisGame.cpp
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\TetrisGame.cpp(248,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\TetrisGame.cpp(248,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetromino.cpp
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\Tetromino.cpp(48,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Tetris\Tetromino.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\braon\OneDrive\Camosun\Camosun Year 2 Fall Term 2023\ICS-214 Programming From C to C++\TetrisFinal\Tetris\Debug\Tetris.exe
